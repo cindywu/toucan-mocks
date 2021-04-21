@@ -10,7 +10,7 @@
 }
 
 a {
-  color: #0070f3;
+  color: inherit;
   text-decoration: none;
 }
 
@@ -129,5 +129,11 @@ textarea {
 }
 
 .pages {
-  text-align: center;
+  text-align: left;
+  margin-left: 200px;
+}
+
+ul li {
+  padding-left: 1em;
+  list-style: none;
 }

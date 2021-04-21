@@ -19,12 +19,12 @@ export default function Home() {
         <div className='pages'>
           <div>
             <Link href="/pages/login">
-              <a>Login</a>
+              <a>Log in to account</a>
             </Link>
           </div>
           <div>
             <Link href="/pages/register">
-              <a>Register</a>
+              <a>Create account</a>
             </Link>
           </div>
           <div>
@@ -36,6 +36,37 @@ export default function Home() {
             <Link href="/pages/invite">
               <a>⚠️ Invite people</a>
             </Link>
+          </div>
+          <div>
+            Delete workspace
+          </div>
+          <div>
+            Delete team
+          </div>
+          <div> 
+            Import and export
+          </div>
+          <div> 
+            Settings
+          </div>
+          <div>
+            Workspace
+          </div>
+          <div>
+            Add reference
+            <ul>
+              <li>In app</li>
+              <li>Browser extension</li>
+              <li>Slack</li>
+              <li>Drag and drop</li>
+              <li>Email</li>
+            </ul>
+          </div>
+          <div>
+            Archive reference
+          </div>
+          <div>
+            Comment on reference
           </div>
         </div>
       </section>
