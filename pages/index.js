@@ -29,7 +29,7 @@ export default function Home() {
           </div>
           <div>
             <Link href="/pages/create-workspace">
-              <a>⚠️ Create workspace</a>
+              <a>Create workspace</a>
             </Link>
           </div>
           <div>
