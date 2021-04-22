@@ -46,16 +46,23 @@ export default function Home() {
             Delete team
           </div>
           <div> 
-            Import and export
+            <Link href="/settings/import-export">
+              <a>Import and export</a>
+            </Link>
+            
           </div>
           <div> 
             Settings
           </div>
           <div>
             Workspace
+            <ul>
+              <li>Empty</li>
+              <li>Onboarding</li>
+            </ul>
           </div>
           <div>
-            Add reference
+            Create reference
             <ul>
               <li>In app</li>
               <li>Browser extension</li>
@@ -65,10 +72,12 @@ export default function Home() {
             </ul>
           </div>
           <div>
-            Archive reference
-          </div>
-          <div>
-            Comment on reference
+            Edit reference
+            <ul>
+              <li>Archive</li>
+              <li>Comment</li>
+              <li>Add label</li>
+            </ul>
           </div>
         </div>
       </section>
