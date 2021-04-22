@@ -59,6 +59,8 @@ export default function Home() {
             <ul>
               <li>Empty</li>
               <li>Onboarding</li>
+              <li>List view</li>
+              <li>Card view</li>
             </ul>
           </div>
           <div>
@@ -69,6 +71,7 @@ export default function Home() {
               <li>Slack</li>
               <li>Drag and drop</li>
               <li>Email</li>
+              <li>Mobile</li>
             </ul>
           </div>
           <div>
