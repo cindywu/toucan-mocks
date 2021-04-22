@@ -38,7 +38,9 @@ export default function Home() {
             </Link>
           </div>
           <div>
-            Delete workspace
+            <Link href="/settings/workspace">
+              <a>Delete workspace</a>
+            </Link>
           </div>
           <div>
             Delete team
