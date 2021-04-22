@@ -34,7 +34,7 @@ export default function Home() {
           </div>
           <div>
             <Link href="/pages/invite">
-              <a>⚠️ Invite people</a>
+              <a>Invite people</a>
             </Link>
           </div>
           <div>
